@@ -1,4 +1,6 @@
-# トランポリン関数
+# trampoline
+
+This is a trampoline function in Rust.
 
 ```rs
 enum Trampoline<T> {
